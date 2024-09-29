@@ -1,0 +1,33 @@
+Started by user BHarshitha
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /var/lib/jenkins/workspace/pipeline-job
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Intoduction)
+[Pipeline] echo
+Hello
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (About)
+[Pipeline] echo
+My self B Harshitha
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (outcome)
+[Pipeline] echo
+I learnt about build tool maven, central rep git and github, manual deployment server Tomcat and also Automatic deployment of Jenkins 
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Conclusion)
+[Pipeline] echo
+Thank you
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
